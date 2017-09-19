@@ -3,7 +3,7 @@ import kareltherobot.*;
 
 
 /**
- * @author :  D. Appel
+ * @author :  C. Morgan
  */
 public class DangerousBot extends Robot
 {
