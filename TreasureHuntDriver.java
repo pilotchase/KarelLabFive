@@ -13,7 +13,7 @@ public class TreasureHuntDriver implements Directions
     public static void main(String args[])  {
 
         //Your code goes below here:
-        TreasureBot karel = new TreasureBot(2, 2, North, 0);  
+        TreasureBot karel = new TreasureBot(1, 1, North, 0);  
         karel.findTreasure();
         
         karel.turnOff();  
